@@ -1,7 +1,7 @@
 baseURL = "https://korbinnevius.github.io/"
 languageCode = "en-us"
 title = "Korbin Nevius"
-theme = "personal-web"
+theme = "personal-web-hugo-template"
 copyright="© Edna West"
 googleAnalytics = ""
 enableEmoji=true

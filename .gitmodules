@@ -1,4 +1,3 @@
-
 [submodule "themes/personal-web-hugo-template"]
 	path = themes/personal-web-hugo-template
 	url = https://github.com/korbinnevius/personal-web-hugo-template
